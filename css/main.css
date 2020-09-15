@@ -819,6 +819,10 @@ footer .copyright a {
   }
 
   /*		Hero section 		*/
+  .hero {
+    background: url("../img/hero_767.jpg") no-repeat fixed center center;
+  }
+
   .hero .caption {
     margin-left: 0;
   }
