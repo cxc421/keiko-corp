@@ -821,6 +821,7 @@ footer .copyright a {
   /*		Hero section 		*/
   .hero {
     background: url("../img/hero_767.jpg") no-repeat fixed center center;
+    background-size: cover;
   }
 
   .hero .caption {
